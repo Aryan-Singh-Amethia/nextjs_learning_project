@@ -1,0 +1,8 @@
+.contactRootLayout{
+    width: 95%;
+    background-color: #FFF7D4;
+    border: 3px solid black;
+    margin-top: 0.25rem;
+    margin-bottom: 0.25rem;
+    text-align: center;
+}

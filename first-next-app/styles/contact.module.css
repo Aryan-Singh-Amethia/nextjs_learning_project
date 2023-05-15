@@ -1,0 +1,68 @@
+
+
+.contactRootLayout{
+    background-color: #4C3D3D;
+    width: 90%;
+    height: 100%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid black;
+}
+
+.contactFormLayout{
+    display: flex;
+    justify-content: center;
+}
+
+.contactForm{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    padding-left: 15rem;
+    padding-right: 15rem;
+    margin-top: 5rem;
+    width: 0.225rem;
+    background-color: #FFD95A;
+    border-color: black;
+    height: 10rem;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 0.2rem;
+}
+
+.inputLabel{
+    width: 100%;
+    font-family: 'Archivo Black', sans-serif;
+    font-size: large;
+    font-weight: 500;
+    margin-right: 2rem;
+}
+
+.addedContactsRoot{
+    display: flex;
+    justify-content: center;
+}
+
+.addedContacts{
+    border: 3px solid black;
+    border-radius: 0.5rem;
+    padding: 10px;
+    padding-top: 20px;
+    margin-top: 3rem;
+    background-color: #C07F00;
+    height: max-content;
+    width: 50rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 10px;
+    padding: 0;
+}
+
+.contactHeader{
+
+}
